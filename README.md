@@ -1,6 +1,6 @@
 # effective-chainsaw
 
-TLDR - final_kanji_vocab_set.csv contains ordered vocabulary containing kanji you are “taught” to write in Genki textbook series.
+TLDR - Genki_Kanji_Vocab.csv contains ordered vocabulary containing kanji you are “taught” to write in Genki textbook series.
 
 ## Motivation
 Learn kanji with vocabulary that is seen at some point in the book. I don’t like learning words that contain two new kanji at once. This list solves that problem.
