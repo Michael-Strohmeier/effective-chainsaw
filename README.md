@@ -11,6 +11,7 @@ If using anki probably a good idea to do EN -> JP where you handwrite the JP wor
 ## Disclaimer
 - I don’t own any of the material / data.
 - There is possibly a better vocabulary list in existence.
+- There are some issues like 十 being listed as とお which is sort of true but the word would be 十日・１０日 this should rarely happen thoughout the list.
 
 ## Sources
 Kanji list came from (but is also directly in Genki):
