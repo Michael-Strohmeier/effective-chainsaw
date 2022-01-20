@@ -15,13 +15,13 @@ If using anki probably a good idea to do EN -> JP where you handwrite the JP wor
 
 ## Missing Words/Kanji
 Aside from lesson 23, there were 5 kanji skipped. This is because the compound words / words disagree with me.
--Lesson | Kanji
--5  田
--16	室
--19	不
--21	経
--22	回
--23  Half of lesson 23 is also missing.
+- Lesson | Kanji
+- 5   田
+- 16	室
+- 19	不
+- 21	経
+- 22	回
+- 23  Half of lesson 23 is also missing.
 
 ## Sources
 Kanji list came from (but is also directly in Genki):
