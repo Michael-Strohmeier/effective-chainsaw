@@ -14,7 +14,7 @@ If using anki probably a good idea to do EN -> JP where you handwrite the JP wor
 - There are some issues like 十 being listed as とお which is sort of true but the word would be 十日・１０日 this should rarely happen thoughout the list. This was fixed but I haven't gone through the entire list - could be more.
 
 ## Missing Words/Kanji
-Aside from lesson 23, there were 5 kanji skipped. This is because the compound words / words disagree with me.
+Aside from lesson 23, there were 2 kanji skipped. This is because the compound words / words disagree with me.
 - Lesson | Kanji
 - 16	室
 - 21	経
