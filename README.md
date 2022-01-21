@@ -16,12 +16,13 @@ If using anki probably a good idea to do EN -> JP where you handwrite the JP wor
 ## Missing Words/Kanji
 Aside from lesson 23, there were 5 kanji skipped. This is because the compound words / words disagree with me.
 - Lesson | Kanji
-- 5   田
 - 16	室
-- 19	不
 - 21	経
-- 22	回
-- 23  Half of lesson 23 is also missing.
+- 23  Half of lesson 23 is also missing. (答顔化違変横調)
+
+Tobira prereq kanji remaining
+- seen in genki reading section (室経)(答顔化違変横調)
+- some need in genki but not in reading section 耳取受王貝糸洗予約竹室薬馬寒飯返利弱門矢荷便横晴答汚拾職球経消暑暗練
 
 ## Sources
 Kanji list came from (but is also directly in Genki):
